@@ -14,6 +14,6 @@ Autism Spectrum Disorder (ASD) is a developmental disorder that affects an indiv
   - "Only2D-History" folder records how I successfully choose the right model and data to get the best outcome.
 
  **I use abide-master to download the data. You can find it in the official site of abide dataset.**  
- **The .pth file of my model is too big(55.3mb per .pth file) so I can not upload on github. But if you want it, let me know**
+ **The .pth file of my model is too big(55.3mb per .pth file) so I can not upload on github. But if you want it, let me know**  
  **If you have other questiones, let me know through 877265440@qq.com or comments.**  
  
