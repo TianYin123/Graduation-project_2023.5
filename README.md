@@ -10,7 +10,7 @@ Autism Spectrum Disorder (ASD) is a developmental disorder that affects an indiv
   - colab mean run on the google colabs.
 - "OtherAttempts"
   - Before I found the best strategy of building the model, I made a lot attempts.
-  - "2DImg mix 3DImg-History" folder means I used to mix 3D feature of FMRI with 2D feature of FMRI to get a better outcome. I almost successed, but because the deadline was coming soon, I have no time to improve the overfit of self-attention in 3D CNN model. If you are interested in the further study, let me know through 877265440@qq.com or comments
+  - "2DImg mix 3DImg-History" folder means I used to mix 3D feature of FMRI with 2D feature of FMRI to get a better outcome. I almost successed. The outcome of single 3D-CNN and 2D-CNN are both good but when I mix them together, the overfit problem will occur on mix model. Finally,because the deadline was coming soon, I have no time to improve the overfit. If you are interested in the further study, let me know through 877265440@qq.com or comments
   - "Only2D-History" folder records how I successfully choose the right model and data to get the best outcome.
 
  **I use abide-master to download the data. You can find it in the official site of abide dataset.**  
