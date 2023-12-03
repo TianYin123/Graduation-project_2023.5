@@ -11,7 +11,7 @@ Autism Spectrum Disorder (ASD) is a developmental disorder that affects an indiv
 - "OtherAttempts"
   - Before I found the best strategy of building the model, I made a lot attempts.
   - "2DImg mix 3DImg-History" folder means I used to mix 3D feature of FMRI with 2D feature of FMRI to get a better outcome. I almost successed. The outcome of single 3D-CNN and 2D-CNN are both good but when I mix them together, the overfit problem will occur on mix model. Finally,because the deadline was coming soon, I have no time to improve the overfit. If you are interested in the further study, let me know through 877265440@qq.com or comments
-  - "Only2D-History" folder records how I successfully choose the right model and data to get the best outcome.
+  - "Only2D-History" folder records how I successfully chose the right model and data to get the best outcome.
 
  **I use abide-master to download the data. You can find it in the official site of abide dataset.**  
  **The .pth file of my model is too big(55.3mb per .pth file) so I can not upload on github. But if you want it, let me know**  
